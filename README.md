@@ -1,1 +1,1 @@
-![CI](https://github.com/thefortnight/ahj-dom/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/thefortnight/ahj-events/actions/workflows/web.yml/badge.svg)
